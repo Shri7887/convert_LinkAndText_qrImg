@@ -20,3 +20,4 @@ Example images:
 - Then click enter
 - ![qr5902](https://github.com/Shri7887/convert_LinkAndText_qrImg/assets/40537549/881c4957-d84f-4eff-95e5-9254773bab73)
 
+## Once cloned the directory type "npm install" in the cmd associated with the cloned directory.
